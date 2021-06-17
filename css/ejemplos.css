@@ -1,0 +1,62 @@
+.important {
+    font-weight: bold;
+    font-size: xx-large;
+}
+
+.blue {
+    color: blue;
+}
+
+body {
+    margin: auto;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(188, 171, 233);
+}
+
+#btn5 {
+    display: flex;
+    margin-top: 10px;
+}
+
+#caja1 {
+    border: 1px solid rgb(1, 1, 1);
+}
+
+#caja2 {
+    border: 1px solid rgb(1, 1, 1);
+    margin-top: 10px;
+}
+
+#caja3 {
+    border: 1px solid rgb(1, 1, 1);
+    margin-top: 10px;
+}
+
+#caja4 {
+    border: 1px solid rgb(1, 1, 1);
+    margin-top: 10px;
+}
+
+#caja5 {
+    border: 1px solid rgb(1, 1, 1);
+    margin-top: 10px;
+}
+
+#caja6 {
+    border: 1px solid rgb(1, 1, 1);
+    margin-top: 10px;
+}
+
+#panel,
+#flip {
+    padding: 5px;
+    text-align: center;
+    background-color: #e5eecc;
+    border: solid 1px #c3c3c3;
+}
+
+#panel {
+    padding: 50px;
+    display: none;
+}
